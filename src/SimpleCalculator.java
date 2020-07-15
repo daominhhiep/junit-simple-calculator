@@ -7,5 +7,3 @@ public class SimpleCalculator {
         return first - second;
     }
 }
-
-
